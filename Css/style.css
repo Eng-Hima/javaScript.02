@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #0004ff;
+    color: white;
+    border: none;
+    width: 250px;
+    height: 80px;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #1f5002;
+  }
+  
+  #text {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  #name{
+    font-weight: 600;
+  }
+  h1{
+    font-size: 64px;
+    font-weight: 900;
+  }
+  .pt1{
+    font-size: 50px;
+  }
+  p{
+    font-size: 24px;
+  }
